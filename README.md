@@ -33,20 +33,20 @@ Find your device with ID-CODE.
 
 （Get ID-CODE in Step 1）
 
-<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot03.jpg" width="50%"  align=center />
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot03.jpg" width="30%"  align=center />
 
 Click on your device and input PASS-CODE.
 
 （Get PASS-CODE in Step 1）
 
-<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot06.jpg" width="50%"  align=center />
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot06.jpg" width="30%"  align=center />
 
 If PASS-CODE is right, the device will list in Device panel.
 
-<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot04.jpg" width="50%"  align=center />
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot04.jpg" width="30%"  align=center />
 
 Click your device again , you can control it now.
 
-<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot09.jpg" width="50%"  align=center />
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot09.jpg" width="30%"  align=center />
 
 More info , Pls visit http://www.marsiot.com
