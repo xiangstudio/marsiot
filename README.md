@@ -4,7 +4,7 @@ I introduce my personal project here, follow my project, you can use android to 
 
 Download marsiot.jar into current directory：
 wget http://www.marsiot.com/download/marsiot.jar
-[img]http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot01.jpg[/img]
+![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot01.jpg)
 
 Run the marsiot.jar：
 sudo java -jar marsiot.jar
