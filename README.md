@@ -7,13 +7,13 @@ Download marsiot.jar into current directory：
 
 wget http://www.marsiot.com/download/marsiot.jar
 
-![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot01.jpg)
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot01.jpg" width="100%"  align=center />
 
 Run the marsiot.jar：
 
 sudo java -jar marsiot.jar
 
-![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot02.jpg)
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot02.jpg" width="100%"  align=center />
 
 Please pay special attention to ID-CODE and PASS-CODE, which will be used in the next steps.
 
@@ -27,27 +27,26 @@ QR code here:
 
 ![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot_download-150x150.png)
 
-
 ##Step 3: Control your device
 
 Find your device with ID-CODE.
 
 （Get ID-CODE in Step 1）
 
-![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot03.jpg)
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot03.jpg" width="50%"  align=center />
 
 Click on your device and input PASS-CODE.
 
 （Get PASS-CODE in Step 1）
 
-![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot06.jpg)
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot06.jpg" width="50%"  align=center />
 
 If PASS-CODE is right, the device will list in Device panel.
 
-![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot04.jpg)
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot04.jpg" width="50%"  align=center />
 
 Click your device again , you can control it now.
 
-![Image text](http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot09.jpg)
+<img src="http://www.marsiot.com/home/wp-content/uploads/2016/12/marsiot09.jpg" width="50%"  align=center />
 
 More info , Pls visit http://www.marsiot.com
